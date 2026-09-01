@@ -1,30 +1,38 @@
 .container{
-   background-color: rgb(22, 179, 61);
+   background-color:#59FE02;
    height: 150px;
    width: 1910px;
 }
 
-.logo{
-   width: 100px;
-   height: 100px;
+.logo img{
+   width: 150px;
+   height: 150px;
    background-color: #181717;
    margin-left: 20px;
    display: flex;
 }
 
-.link img{
-
+.link{
     
-    width: 80px;
+    width: 10px;
     height: 25px;
     display: flex;
+    text-decoration: none;
     
 }
 
 .botao{
-    background-color: mediumaquamarine ;
+width: 100px;
+height: 30px;  
+background-color: hwb(0 99% 1%);
+box-shadow: 10px 10px 10px rgb( rgb(0, 0, 0));
+border-radius: 25px;
+font-size: 15px;
+
 }
 
 body{
   background-color: rgb(248, 248, 255);
+  
 }
+
